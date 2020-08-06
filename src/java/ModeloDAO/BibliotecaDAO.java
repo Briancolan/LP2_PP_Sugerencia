@@ -9,6 +9,6 @@ package ModeloDAO;
  *
  * @author tomy_
  */
-public class BibliotecaDAO {
+public class SugerenciaDAO {
     
 }
